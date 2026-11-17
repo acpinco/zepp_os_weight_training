@@ -24,4 +24,4 @@ The settings page runs inside **Android System WebView**, and an old copy can st
 
 ### After signing in to Strava, I'm not taken back to the Zepp app (Samsung phones)
 
-This happens when Samsung Internet is your default browser. Set **Chrome** as the default browser (Settings, Apps, Choose default apps, Browser app), then go back to the app's settings page in the Zepp app and tap **Connect with Strava** again.
+Strava sign-in doesn't work with Samsung Internet, even on an up-to-date phone. Install [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) from the Google Play Store if you don't have it, then make Chrome your default browser (Settings, Apps, Choose default apps, Browser app). After that, go back to the app's settings page in the Zepp app and tap **Connect with Strava** again.
