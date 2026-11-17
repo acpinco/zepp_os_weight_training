@@ -1,0 +1,68 @@
+name: Bug report
+description: Something in the app isn't working right
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see? Include any message the watch or phone showed, word for word if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you did, one step per line. Include the exercise and which button or key you pressed.
+      placeholder: "1. Start a workout\n2. Pick Bench press\n3. Press the select button\n4. ..."
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - On the watch
+        - On the phone (the app's settings page in the Zepp app)
+        - Both
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: strava
+    attributes:
+      label: Is it about Strava?
+      description: For example signing in to Strava, or a workout not showing up there.
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: In the Zepp phone app, open your watch's app list and tap Weight Lifting.
+      placeholder: "0.4.57"
+  - type: input
+    id: watch
+    attributes:
+      label: Watch model and Zepp OS version
+      description: Both are in the Zepp phone app, on your watch's page under About or System updates.
+      placeholder: "Amazfit Active 3 Premium, Zepp OS 5.0"
+  - type: input
+    id: phone
+    attributes:
+      label: Phone, phone system and Zepp app version
+      placeholder: "Pixel 8, Android 15, Zepp 9.12"
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or video (optional)
+      description: Drag images or a video here. A photo of the watch screen is fine. Hide anything personal first.
