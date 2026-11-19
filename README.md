@@ -6,7 +6,7 @@ This repository is only for **bug reports and feature requests**. The app's sour
 
 - Found a bug? [Report it](../../issues/new?template=bug_report.yml)
 - Have an idea? [Request a feature](../../issues/new?template=feature_request.yml)
-- Looking for what changed? See [Releases](../../releases)
+- Looking for what changed? See the [release notes](RELEASE_NOTES.md)
 
 Please search existing issues first, and add a thumbs-up to ones you care about.
 
