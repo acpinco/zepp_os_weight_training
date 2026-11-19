@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.88
+
+- You now get 14 free workouts before the app asks to be unlocked, up from 7. If you had already reached 7, you can start workouts again until you reach 14.
+
 ## 0.4.87
 
 - The rest screen now shows how many sets you have done in the workout ("Sets 3"), and the green button says which set of that exercise is next, for example "Start 2nd Set of Dumbbell curl".
