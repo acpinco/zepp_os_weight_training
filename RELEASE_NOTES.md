@@ -2,6 +2,17 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.89
+
+- Workout plans. Make a plan on your phone (Zepp app, Weight Lifting, Workout Plans): tap New plan, give it a name, then choose the exercises you want to do and how many sets of each. On the watch, GO now asks whether to Quick start (as before) or Choose plan.
+- With a plan, the exercise list starts with Remaining Exercises: each exercise with how many sets are left. Once all its sets are done it moves to the bottom of that list and is crossed out, and you can still pick it for another set.
+- After the last planned set of an exercise, the rest screen's Start goes straight to the next exercise of the plan, in the order you set on the phone. You can change the order there with Move up and Move down.
+- A tidier phone page: the disclaimer comes first and folds away once you accept it (tap it to read it again), Strava takes one line once connected, and your workout plans and workout history each have a page of their own.
+- On the phone, the Back and Cancel buttons at the top of a screen now stay in place while you scroll, so they are always easy to find.
+- Fixed: connecting Strava on a fresh install could show an error under "Connected to Strava" until the first workout uploaded.
+- When you finish the last set of a plan, the watch says "Plan complete" with the plan's name. Choose Continue to keep lifting without the plan, or End to finish the workout.
+- The workout summary (on the watch, the phone and Strava) names the plan, says where you did fewer sets than planned, and lists the exercises you skipped. You can finish early at any time, as before.
+
 ## 0.4.88
 
 - You now get 14 free workouts before the app asks to be unlocked, up from 7. If you had already reached 7, you can start workouts again until you reach 14.
