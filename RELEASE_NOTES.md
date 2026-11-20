@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.94
+
+- Workouts uploaded to Strava now show as real exercises in Strava's Exercises list, each with its sets, reps and weight, and Strava adds up the total volume. The written list of sets is still in the activity's description.
+
 ## 0.4.93
 
 - Swiping in from the left edge of the watch no longer closes the app during a set, on the summary after a workout, or on the first safety screen. During a set the swipe does nothing; on the summary it goes back to Home. Swiping on Home still closes the app, and the back button works as before.
