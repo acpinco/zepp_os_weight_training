@@ -2,6 +2,11 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.92
+
+- Export and import on the phone (Zepp app, Weight Lifting, Export and import). Your workout history and workout plans are saved together in one backup file. Tap Show as text to copy it or email it to yourself; where your phone allows it, Share and Copy buttons appear too.
+- To import, tap Import a backup, paste the backup into the large box, then tap Import. You can also give the web address of a backup instead. Workouts and plans you already have are kept as they are, so importing the same file twice adds nothing, and Undo the last import takes it all away again.
+
 ## 0.4.91
 
 - Each workout plan on the phone's Workout Plans page now has Delete beside it, just like Workout History: tap Delete, then Sure? to remove the plan. You can still delete a plan from inside it too.
