@@ -2,6 +2,13 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.90
+
+- Home now shows how many free workouts you have left ("12 free workouts left"), so you always know before the app asks to be unlocked. Once it is unlocked, the line goes away.
+- History shows 20 workouts at a time, on the watch and on the phone, with Next page and Previous page buttons to see the rest, so it opens quickly however many workouts you have.
+- If you leave the app in the middle of a workout and do not come back to it for 30 minutes, the watch stops measuring your heart rate in the background, to save the battery. Opening the app again picks the workout up where you left it, and heart rate starts again.
+- Fixed: tapping Disconnect on the phone's Strava box while a workout was uploading could leave Strava connected, or say it needed reconnecting.
+
 ## 0.4.89
 
 - Workout plans. Make a plan on your phone (Zepp app, Weight Lifting, Workout Plans): tap New plan, give it a name, then choose the exercises you want to do and how many sets of each. On the watch, GO now asks whether to Quick start (as before) or Choose plan.
