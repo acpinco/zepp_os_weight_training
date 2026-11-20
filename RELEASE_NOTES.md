@@ -2,6 +2,14 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.91
+
+- Each workout plan on the phone's Workout Plans page now has Delete beside it, just like Workout History: tap Delete, then Sure? to remove the plan. You can still delete a plan from inside it too.
+- The Workout Plans page on the phone has larger text. Making a new plan now starts with an Enter plan name button. Type the name, tap OK, and it shows with Next under it to go on to adding exercises. A plan's own page has Change plan name.
+- The exercise list on the phone (when adding to a plan, or changing a set's exercise) has larger text and colour: exercises are green buttons, muscle groups pale green.
+- Buttons on the phone that open something (Workout Plans, Workout History, each workout, each plan and each muscle group) have a large › on the right, and Workout Plans and Workout History stand out with larger names.
+- A plan's page is tidier: each exercise has its name, then one row with its sets (− and +), ↑ and ↓ to move it, and ✕ to remove it.
+
 ## 0.4.90
 
 - Home now shows how many free workouts you have left ("12 free workouts left"), so you always know before the app asks to be unlocked. Once it is unlocked, the line goes away.
