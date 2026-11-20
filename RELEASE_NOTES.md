@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.93
+
+- Swiping in from the left edge of the watch no longer closes the app during a set, on the summary after a workout, or on the first safety screen. During a set the swipe does nothing; on the summary it goes back to Home. Swiping on Home still closes the app, and the back button works as before.
+
 ## 0.4.92
 
 - Export and import on the phone (Zepp app, Weight Lifting, Export and import). Your workout history and workout plans are saved together in one backup file. Tap Show as text to copy it or email it to yourself; where your phone allows it, Share and Copy buttons appear too.
