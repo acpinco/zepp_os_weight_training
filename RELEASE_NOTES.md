@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.95
+
+- When setting the weight or reps, swiping left or right no longer leaves the screen, so a stray swipe while turning the wheel can't throw away your change. Use Done to save, or the back button to go back without saving.
+
 ## 0.4.94
 
 - Workouts uploaded to Strava now show as real exercises in Strava's Exercises list, each with its sets, reps and weight, and Strava adds up the total volume. The written list of sets is still in the activity's description.
