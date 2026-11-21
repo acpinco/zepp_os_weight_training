@@ -2,6 +2,13 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.97
+
+- You now get 7 free workouts (down from 14), then you can choose a monthly or yearly subscription, or pay once for lifetime use. Scan the code on the watch with your phone's camera, choose, and pay. There is no account to make and nothing to type: the watch unlocks by itself a few seconds later. Cancel a subscription any time from the link in your receipt.
+- Got a new phone? The Unlock screen has a second code: scan it and enter the email you paid with, and what you bought moves to the new phone.
+- Settings has a new "Heart rate with screen off" switch, so you can turn on background heart rate any time, even if you skipped it the first time.
+- Larger, easier-to-read text on the Unlock, Train safely and Heart rate screens.
+
 ## 0.4.96
 
 - The Test workouts buttons on the phone's Export and import page, which added made-up workouts, are gone.
