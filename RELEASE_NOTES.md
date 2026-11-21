@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.98
+
+- Strava no longer repeats your exercises and sets in the activity's description, since they already show in Strava's own exercise list. The description now just has your plan, anything you skipped, and the workout's totals. It now ends "Logged with the Zepp OS Weight Lifting app by Avour Labs LLC" and a link to avourlabs.com.
+
 ## 0.4.97
 
 - You now get 7 free workouts (down from 14), then you can choose a monthly or yearly subscription, or pay once for lifetime use. Scan the code on the watch with your phone's camera, choose, and pay. There is no account to make and nothing to type: the watch unlocks by itself a few seconds later. Cancel a subscription any time from the link in your receipt.
