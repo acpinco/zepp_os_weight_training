@@ -2,6 +2,12 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.101
+
+- Workout plans can now hold the weight for each set. On the phone, open a plan and tap Enter Set Weight under an exercise to set the weight of each of its sets; the first weight you enter fills in the rest. When you do that plan on the watch, the weight screen starts at the planned weight for that set.
+- On the phone, the lists of workout plans and of past workouts are shorter: each plan's exercises and sets, and each workout's date and totals, fit on one line.
+- When you edit a past workout on the phone, each set's weight, reps and time now sit between their − and + buttons, like the plan's set weights.
+
 ## 0.4.100
 
 - Easier to see for everyone, including people with red-green colour blindness: the highlight that shows which button the select button will press is now yellow instead of red, and the green buttons are a darker green so their white text is easier to read.
