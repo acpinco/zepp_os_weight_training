@@ -2,6 +2,11 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.99
+
+- Strava now shows a heart rate graph for your workout, through every set and rest, instead of nothing. The watch keeps a reading every 5 seconds. With "Heart rate with screen off" on in Settings the graph carries on while the screen is off; without it there are gaps while the screen sleeps.
+- Buttons respond straight away when a screen opens. Before, the weight and reps boxes and the wheel's − and + buttons ignored taps for a moment after their screen came up.
+
 ## 0.4.98
 
 - Strava no longer repeats your exercises and sets in the activity's description, since they already show in Strava's own exercise list. The description now just has your plan, anything you skipped, and the workout's totals. It now ends "Logged with the Zepp OS Weight Lifting app by Avour Labs LLC" and a link to avourlabs.com.
