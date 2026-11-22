@@ -2,6 +2,14 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.100
+
+- Easier to see for everyone, including people with red-green colour blindness: the highlight that shows which button the select button will press is now yellow instead of red, and the green buttons are a darker green so their white text is easier to read.
+- On the home screen, GO is wider and History, Units and Settings are bigger, with larger text and more space between them.
+- On the Start workout screen, the lines under Quick start and Choose plan are larger and white, so they are easier to read.
+- The first time you do an exercise, the weight and reps screen starts at 20 lbs (9 kg) and 10 reps instead of blank. Reps the watch counted still come first.
+- The weight and reps wheel now works like the watch's own: larger numbers are below, so the down button goes up. The wheel has an outline so it stands apart from the − and + buttons, which are bigger, and the numbers either side and the unit are easier to read.
+
 ## 0.4.99
 
 - Strava now shows a heart rate graph for your workout, through every set and rest, instead of nothing. The watch keeps a reading every 5 seconds. With "Heart rate with screen off" on in Settings the graph carries on while the screen is off; without it there are gaps while the screen sleeps.
