@@ -2,6 +2,11 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.105
+
+- The sets on the watch's workout summary are written in larger text: as large as your watch's font allows while the longest set still fits on one line.
+- New exercise: Chest supported machine row, under Back.
+
 ## 0.4.104
 
 - The watch now shows the weight to lift before each set, so you can follow your plan. The rest screen's green button says "Next - 135 lb", its top line says which set is next ("Next Set: 3"), and the set screen says "Set 2 · 135 lb". The number is the weight your plan has for that set, or else the weight you used last.
