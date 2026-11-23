@@ -2,6 +2,12 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.102
+
+- Editing a workout plan on the phone is quicker. Add exercise now stays at the top of the screen under Back, so you can add one without scrolling down.
+- Tap an exercise's number to move it: type the place you want, such as 1 to put it first, instead of tapping ↑ many times.
+- Tap a set's weight under Enter Set Weight to type the weight in, instead of stepping to it with − and +.
+
 ## 0.4.101
 
 - Workout plans can now hold the weight for each set. On the phone, open a plan and tap Enter Set Weight under an exercise to set the weight of each of its sets; the first weight you enter fills in the rest. When you do that plan on the watch, the weight screen starts at the planned weight for that set.
