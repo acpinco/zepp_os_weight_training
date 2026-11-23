@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.103
+
+- Plank, side plank, wall sit, dead hang and glute bridge hold no longer ask for a weight. They only keep how long you held them.
+
 ## 0.4.102
 
 - Editing a workout plan on the phone is quicker. Add exercise now stays at the top of the screen under Back, so you can add one without scrolling down.
