@@ -2,6 +2,11 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.104
+
+- The watch now shows the weight to lift before each set, so you can follow your plan. The rest screen's green button says "Next - 135 lb", its top line says which set is next ("Next Set: 3"), and the set screen says "Set 2 · 135 lb". The number is the weight your plan has for that set, or else the weight you used last.
+- After you choose the first exercise of a workout, the rest screen opens first, with the weight to lift. Press Next when you're ready, just like every other set.
+
 ## 0.4.103
 
 - Plank, side plank, wall sit, dead hang and glute bridge hold no longer ask for a weight. They only keep how long you held them.
