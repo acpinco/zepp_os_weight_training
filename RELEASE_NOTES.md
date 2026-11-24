@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.109
+
+- The watch celebrates your personal bests. When a set is the heaviest you've ever lifted on that exercise, or the most reps you've done at your heaviest weight, a Personal best screen shows what you beat before the rest screen. It also counts the most reps for exercises without weight and your longest hold. The watch buzzes twice, and the screen goes on by itself after 3 seconds, or press the top right button to go on right away. Under the numbers, small bars show how that exercise went in your last few workouts, with today's in yellow on the right.
+
 ## 0.4.108
 
 - New on the phone page: Exercise Progress. Pick an exercise to see a line graph of how it has gone, workout by workout. Switch between your heaviest set and the total weight you moved, with how far you've come since the first time ("Up 20 lbs since Sep 1"). Every workout is written out under the graph, with your best marked.
