@@ -2,6 +2,17 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.111
+
+- If you bought the app, your watch now checks your purchase with your phone about once a month, when it syncs. Nothing changes while it is paid for; a purchase moved to another phone stops working on the old one.
+- Restoring a purchase on a new phone now emails you a 6-digit code to enter, so only the person who paid can move it.
+- If you paid on the payment page without scanning the code on your watch first (from a shared or saved link), Restore on your watch now finds your purchase.
+- On the phone, the Strava box now has Strava's own orange Connect with Strava button and the Compatible with Strava mark.
+- When the Unlock screen cannot check for your payment, it now says why in plain words, such as your phone not being online.
+- The Unlock screen and the payment pages now say where to email if something is not working: support@avourlabs.com.
+- The app's version is now shown at the top of Settings and on the Unlock screen on the watch, and at the top of the phone page, so you can give it when asking for help.
+- A new Support button on the watch's Home screen, and the Unlock screen, show a code to scan for the support page, with the app and its version already filled in.
+
 ## 0.4.110
 
 - Workouts sent to Strava now say which watch they were done on, such as "Logged on Amazfit Active 3 Premium".
