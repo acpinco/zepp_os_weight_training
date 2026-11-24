@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.108
+
+- New on the phone page: Exercise Progress. Pick an exercise to see a line graph of how it has gone, workout by workout. Switch between your heaviest set and the total weight you moved, with how far you've come since the first time ("Up 20 lbs since Sep 1"). Every workout is written out under the graph, with your best marked.
+
 ## 0.4.105
 
 - The sets on the watch's workout summary are written in larger text: as large as your watch's font allows while the longest set still fits on one line.
