@@ -2,6 +2,13 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.110
+
+- Workouts sent to Strava now say which watch they were done on, such as "Logged on Amazfit Active 3 Premium".
+- On the phone, choosing an exercise has a Find by first letter list at the top. Pick a letter to see every exercise that starts with it, with no typing.
+- In a workout plan on the phone, tapping an exercise's number now opens a list of the places it can move to, instead of the keyboard.
+- In Workout History on the phone, each set of a workout has a Delete set button under it, for a set logged by mistake. Tap it, then tap Sure? to delete. The change goes to the watch at its next sync.
+
 ## 0.4.109
 
 - The watch celebrates your personal bests. When a set is the heaviest you've ever lifted on that exercise, or the most reps you've done at your heaviest weight, a Personal best screen shows what you beat before the rest screen. It also counts the most reps for exercises without weight and your longest hold. The watch buzzes twice, and the screen goes on by itself after 3 seconds, or press the top right button to go on right away. Under the numbers, small bars show how that exercise went in your last few workouts, with today's in yellow on the right.
