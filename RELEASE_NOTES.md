@@ -2,6 +2,12 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.114
+
+- Cancelling a subscription is easier. Support on the watch now has a second code: scan it to sign up, or, once subscribed, to manage or cancel your subscription in a tap, with nothing to sign in to. The link in your receipt email still works too.
+- Prices now include tax, so you pay the price you see.
+- If you bought the app, your watch now checks your purchase with your phone each time it syncs, rather than about once a month.
+
 ## 0.4.113
 
 - During a set there is now a Back button under End set, for when you started the wrong exercise. Tap it twice to drop the set and go back to the rest screen, where you can change the exercise. The watch's back button still does the same. Finish is no longer on this screen; finish from the rest screen.
