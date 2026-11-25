@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.115
+
+- Now works on the Amazfit Balance 2 and Amazfit Bip 6. Update the watch to its latest software first if the app will not install.
+
 ## 0.4.114
 
 - Cancelling a subscription is easier. Support on the watch now has a second code: scan it to sign up, or, once subscribed, to manage or cancel your subscription in a tap, with nothing to sign in to. The link in your receipt email still works too.
