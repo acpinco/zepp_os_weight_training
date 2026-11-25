@@ -2,6 +2,12 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.113
+
+- During a set there is now a Back button under End set, for when you started the wrong exercise. Tap it twice to drop the set and go back to the rest screen, where you can change the exercise. The watch's back button still does the same. Finish is no longer on this screen; finish from the rest screen.
+- The rest between sets now buzzes every 30 seconds (once at 30 seconds, twice at a minute), so you can time your rest without looking, even with the screen off (when Heart rate with screen off is on in Settings). It has its own setting, Rest Timer, in Settings: Vibrate or Off.
+- The Personal best screen now stays up for 10 seconds, so there is time to read it, and its title and bars no longer run into the edge of the screen or the Next button.
+
 ## 0.4.112
 
 - Behind-the-scenes tidying. The workout screens now redraw their numbers only when they change, and the Train safely and Heart rate screens start their text at the top.
