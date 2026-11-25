@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 0.4.112
+
+- Behind-the-scenes tidying. The workout screens now redraw their numbers only when they change, and the Train safely and Heart rate screens start their text at the top.
+
 ## 0.4.111
 
 - If you bought the app, your watch now checks your purchase with your phone about once a month, when it syncs. Nothing changes while it is paid for; a purchase moved to another phone stops working on the old one.
