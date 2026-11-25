@@ -2,6 +2,10 @@
 
 What's new in Weight Lifting, newest first. You can see which version you have in the Zepp phone app's list of apps.
 
+## 1.0.0
+
+- The first release in the Zepp app store. Nothing else changes from 0.4.115.
+
 ## 0.4.115
 
 - Now works on the Amazfit Balance 2 and Amazfit Bip 6. Update the watch to its latest software first if the app will not install.
